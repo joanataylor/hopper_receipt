@@ -8,6 +8,7 @@
     <title>Receipt</title>
 </head>
 <body>
+  <img src="download.jpeg">
     <h1>
       Costumer name: <c:out value="${name}"/>
     </h1>
